@@ -1,0 +1,14 @@
+{
+  "name": "sanber-javascript-indah",
+  "version": "1.0.0",
+  "description": "Aplikasi belajar javascript sunbercode part1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node contoh.js"
+  },
+  "author": "Indah",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
